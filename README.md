@@ -1,6 +1,6 @@
 # PYTHONDF
 
-repo of me learning DS
+Repo of me learning DS
 
 ## Table of Contents
 1. [Description](#description)
