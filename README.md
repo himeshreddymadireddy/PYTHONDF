@@ -1,6 +1,6 @@
 # PYTHONDF
 
-Repo of me learning DS
+Repo of me learning Data Science and ML journey
 
 ## Table of Contents
 1. [Description](#description)
