@@ -8,7 +8,7 @@ Repo of me learning Data Science and ML journey
 
 ## Description
 
-This is a repo where i will upload my daily learning of data science
+This is a repo where i will upload my daily learning of data science.   
 
 ## Installation
 
